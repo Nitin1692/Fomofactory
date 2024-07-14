@@ -1,5 +1,5 @@
 # Next.js Project
-created a mini-website to collect and display real-time price data
+Created a mini-website to collect and display real-time price data
 
 ## Installation
 
