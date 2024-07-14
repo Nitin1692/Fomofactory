@@ -5,7 +5,7 @@ Created a mini-website to collect and display real-time price data
 
 1. Clone the repository:
    ```bash
-   git clone <http:url>
+   git clone https://github.com/Nitin1692/Fomofactory.git
 
 2. Navigate to the project folder:
     ```bash
