@@ -10,5 +10,8 @@ created a mini-website to collect and display real-time price data
 2. Navigate to the project folder:
     cd project-folder
 
-3. To start the development server, run:
+3. install package
+    npm install    
+
+4. To start the development server, run:
     npm run dev
